@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Analysis
 This project demonstrated data analysis using Python (Pandas & Matplotlib) on raw sales data to uncover business insights and trends that can drive data informed decisions.
 
 ---
