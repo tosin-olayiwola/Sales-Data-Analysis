@@ -35,7 +35,7 @@ This project demonstrated data analysis using Python (Pandas & Matplotlib) on ra
 
 ## Author
 **Oluwatosin Olayiwola**
-Email: tosin.k.olayiwola@gmail.com
+Email: tosin.ola6@gmail.com
 
 
     
