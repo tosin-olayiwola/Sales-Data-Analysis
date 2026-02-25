@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Performance Analysis
 This project demonstrated data analysis using Python (Pandas & Matplotlib) on raw sales data to uncover business insights and trends that can drive data informed decisions.
 
 ---
@@ -35,7 +35,7 @@ This project demonstrated data analysis using Python (Pandas & Matplotlib) on ra
 
 ## Author
 **Oluwatosin Olayiwola**
-Email: tosin.ola6@gmail.com
+Email: tosin.k.olayiwola@gmail.com
 
 
     
